@@ -1,5 +1,5 @@
 # l33tify
-Convert arrays of normal words into 4rr4yz 0f l33t w0rdz!
+<h3>Convert arrays of normal words into 4rr4yz 0f l33t w0rdz!</h3>
 
 *English Translation:*
 > Converts arrays of normal words into arrays of leet-speak words.
