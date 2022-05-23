@@ -1,0 +1,6 @@
+hello
+world
+dog
+happy
+sad
+scared
