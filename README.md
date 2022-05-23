@@ -47,3 +47,20 @@ Fun words: [
 # Modifying for your own use
 Letters are converted based on the dictionary. The dictionary is found in `l33tify.js` and you can add or remove letter translations by 
 adding or removing to the **d1ct10n4ry** object.
+
+# Default Dictionary
+```js
+const d1ct10n4ry = {
+    a: ["4", "@", '*'],
+    b: ['8'],
+    e: ['3', '*'],
+    f: ['ph'],
+    g: ['6'],
+    i: ["1", "!", "l", "|", '*'],
+    l: ["1", "!", "|"],
+    o: ['0', '*'],
+    s: ['5', 'z', '$'],
+    t: ['7', '+'],
+    u: ['v', '4', '*'],
+}
+```
